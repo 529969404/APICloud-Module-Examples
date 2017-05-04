@@ -11,7 +11,7 @@
 | 模块名称         | 简要说明            | 
 | :--------------:|:------------------:|
 | [ListContact-Example](https://github.com/apicloudcom/ListContact-Example)      |[listContact](http://docs.apicloud.com/Client-API/UI-Layout/UILoading)定义了一个类似微信联系人界面的模板，开发者可自定义数据源，ui界面里的各种元素的样式等，右边字母索引导航条不支持字母以外的内容 |
-| --      |--|
+| --    		  | --				   |
 | --              | --                 |
 ### 其他
 | 模块名称         | 简要说明            | 
@@ -23,6 +23,7 @@
 | [PullRefreshLoop-Example](https://github.com/apicloudcom/PullRefreshLoop-Example)      |[PullRefreshLoop](http://docs.apicloud.com/Client-API/UI-Layout/pullRefreshLoop) 模块对引擎新推出的下拉刷新接口进行了一层封装，App 可以通过此模块来实现带炫酷动画效果的下拉刷新功能。|
 | [DialogBox-Example](https://github.com/apicloudcom/DialogBox-Example)      |[dialogBox](http://docs.apicloud.com/Client-API/UI-Layout/dialogBox) 封装了十一种款式的对话框，每一种款式都提供一个接口来调用，开发者可按照各个接口的样式来自定义对话框上的文字、图片、图文等。后续我们会根据开发者需求继续添加若干样式对话框接口。|
 | [UIChatBox-Example](https://github.com/apicloudcom/UIChatBox-Example)      |[UIChatBox](http://docs.apicloud.com/Client-API/UI-Layout/UIChatBox) 模块是一个聊天输入框模块，开发者可自定义该输入框的功能。|
+| [UIChatBox-Example](https://github.com/SupremeShine/APICloudModuleDemo-UIScrollPicture)      |[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块是一个图片轮播模块，只需传入一组图片地址，即可实现图片轮播效果。同时本Demo还演示了如何使用UIScrollPicture实现APP引导页功能|
 
 ## 导航菜单类
 ---
