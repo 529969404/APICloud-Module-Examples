@@ -39,6 +39,12 @@
 | [VideoPlayer-Example](https://github.com/apicloudcom/VideoPlayer-Example)      |[videoPlayer](http://docs.apicloud.com/Client-API/Func-Ext/videoPlayer)  封装了视频播放功能（不支持音频播放）。可快进、快退设置播放位置等操作，亦可设置屏幕亮度和系统声音大小。通过监听接口可获取模块上的各种手势操作事件。 |
 | [FNImageClip-Example](https://github.com/apicloudcom/FNImageClip-Example)      |[FNImageClip](http://docs.apicloud.com/Client-API/Func-Ext/videoPlayer)  模块封装了图片裁剪功能。 |
 | --              | --                 |
+### 设备
+| 模块名称         | 简要说明            | 
+| :--------------:|:------------------:|
+| [FNScanner-Example](https://github.com/IT-SDJ/QRCodeDEMO)      |[FNScanner](https://docs.apicloud.com/Client-API/Func-Ext/FNScanner)  模块是一个二维码/条形码扫描器，是 scanner 模块的优化升级版。在 iOS 平台上本模块底层集成了系统自带扫码功能。 DEMO展示了如何实现二维码扫描及自定义二维码扫描页面样式|
+| -- | -- |
+| -- | -- |
 ## 设备访问类
 | 模块名称         | 简要说明            |
 | :--------------:|:------------------:|
